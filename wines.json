@@ -1,0 +1,176 @@
+{
+  "wines": [
+    {
+      "name": "Marques de los Rios Rioja Reserva",
+      "region": "Rioja",
+      "style": "Reserva",
+      "grape": "Tempranillo (typical Rioja blend)",
+      "retailer": "Morrisons",
+      "range": "The Best",
+      "price_gbp": 11.50,
+      "tier": "CLASS"
+    },
+    {
+      "name": "Rioja",
+      "region": "Rioja",
+      "style": "Unknown",
+      "grape": "Tempranillo (typical Rioja blend)",
+      "retailer": "Morrisons",
+      "range": "The Best",
+      "price_gbp": 10.00,
+      "tier": "CLASS"
+    },
+    {
+      "name": "Palacio de Primavera Tinto Rioja",
+      "region": "Rioja",
+      "style": "Tinto",
+      "grape": "Tempranillo (typical Rioja blend)",
+      "retailer": "Waitrose",
+      "range": null,
+      "price_gbp": 7.00,
+      "tier": "CLASS"
+    },
+    {
+      "name": "Torres Altos Ibéricos Rioja Crianza",
+      "region": "Rioja",
+      "style": "Crianza",
+      "grape": "Tempranillo",
+      "retailer": "Waitrose",
+      "range": null,
+      "price_gbp": 10.00,
+      "tier": "CLASS"
+    },
+    {
+      "name": "Olarra Clásico Rioja Crianza",
+      "region": "Rioja",
+      "style": "Crianza",
+      "grape": "Tempranillo (typical Rioja blend)",
+      "retailer": "Waitrose",
+      "range": null,
+      "price_gbp": 10.00,
+      "tier": "CLASS"
+    },
+
+    {
+      "name": "Marques Del Norte Rioja Crianza",
+      "region": "Rioja",
+      "style": "Crianza",
+      "grape": "Tempranillo",
+      "retailer": "ASDA",
+      "range": "Extra Special",
+      "price_gbp": 6.98,
+      "tier": "PASS"
+    },
+    {
+      "name": "El Duque De Miralta",
+      "region": "Rioja",
+      "style": "Unknown",
+      "grape": "Tempranillo (typical Rioja blend)",
+      "retailer": "M&S (Ocado)",
+      "range": null,
+      "price_gbp": 9.00,
+      "tier": "PASS"
+    },
+    {
+      "name": "Campo Viejo Rioja Tempranillo",
+      "region": "Rioja",
+      "style": "Tempranillo",
+      "grape": "Tempranillo",
+      "retailer": "Tesco",
+      "range": null,
+      "price_gbp": 9.25,
+      "tier": "PASS"
+    },
+    {
+      "name": "El Duque De Miralta Rioja Crianza",
+      "region": "Rioja",
+      "style": "Crianza",
+      "grape": "Tempranillo",
+      "retailer": "M&S (Ocado)",
+      "range": null,
+      "price_gbp": 10.00,
+      "tier": "PASS"
+    },
+    {
+      "name": "Baron Amarillo Gran Reserva",
+      "region": "Rioja",
+      "style": "Gran Reserva",
+      "grape": "Tempranillo",
+      "retailer": "Aldi",
+      "range": "Specially Selected",
+      "price_gbp": 9.99,
+      "tier": "PASS"
+    },
+    {
+      "name": "Faustino Reserva",
+      "region": "Rioja",
+      "style": "Reserva",
+      "grape": "Tempranillo",
+      "retailer": "ASDA",
+      "range": null,
+      "price_gbp": 13.00,
+      "tier": "PASS"
+    },
+    {
+      "name": "Campo Viejo Rioja Reserva",
+      "region": "Rioja",
+      "style": "Reserva",
+      "grape": "Tempranillo",
+      "retailer": "Morrisons",
+      "range": null,
+      "price_gbp": 11.75,
+      "tier": "PASS"
+    },
+    {
+      "name": "Rioja Crianza",
+      "region": "Rioja",
+      "style": "Crianza",
+      "grape": "Tempranillo",
+      "retailer": "Tesco",
+      "range": "Finest",
+      "price_gbp": 9.00,
+      "tier": "PASS"
+    },
+
+    {
+      "name": "Pata Negra Rioja Crianza",
+      "region": "Rioja",
+      "style": "Crianza",
+      "grape": "Tempranillo",
+      "retailer": "Morrisons",
+      "range": null,
+      "price_gbp": 9.00,
+      "tier": "ARSE"
+    },
+    {
+      "name": "Faustino VII Tempranillo Rioja",
+      "region": "Rioja",
+      "style": "Tempranillo",
+      "grape": "Tempranillo",
+      "retailer": "Sainsbury's",
+      "range": null,
+      "price_gbp": 9.50,
+      "tier": "ARSE"
+    },
+    {
+      "name": "Viñedos Barrihuelo Rioja Crianza",
+      "region": "Rioja",
+      "style": "Crianza",
+      "grape": "Tempranillo",
+      "retailer": "Sainsbury's",
+      "range": "Taste the Difference",
+      "price_gbp": 9.25,
+      "tier": "ARSE"
+    },
+    {
+      "name": "Castillo De Albai Reserva Rioja",
+      "region": "Rioja",
+      "style": "Reserva",
+      "grape": "Tempranillo",
+      "retailer": "Tesco",
+      "range": null,
+      "price_gbp": 10.25,
+      "tier": "ARSE"
+    }
+  ]
+}
